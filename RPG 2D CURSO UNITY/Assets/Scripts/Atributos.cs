@@ -29,6 +29,10 @@ public class Atributos :ScriptableObject  {
     public void AumentarVelocidadBase(int cantidad)
     {
         velocidadBase += cantidad;
+        //comentario para hacer push
+        //Miguel Angel Cantu Sanchez
+        // 29282
+        // Tópico III (Proyecto de Desarrollo de Videojuegos)
     }
 
     public void AumentarAtaqueBase(int cantidad)
